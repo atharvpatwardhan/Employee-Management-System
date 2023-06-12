@@ -1,4 +1,4 @@
-This prooject was created with Spring Boot, ReactJS and MySQL.
+This project was created with Spring Boot, ReactJS and MySQL.
 It supports all CRUD Operations.
 
 1. This is the main dashboard containing all the Employee Records.
